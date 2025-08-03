@@ -4,7 +4,7 @@ A modern and responsive Todo List built using **Vite**, **React**, and **Tailwin
 
 ## Live Demo
 
-**Deploying Soon**
+[Click here to view it live](https://nacs-todo-app.netlify.app/) 
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ A modern and responsive Todo List built using **Vite**, **React**, and **Tailwin
 ## Installation (Run Locally)
 
 ```bash
-git clone **Add Link Here Soon...**
+git clone https://github.com/nachiket311/Todo.git
 cd Todo
 npm install
 npm run dev
